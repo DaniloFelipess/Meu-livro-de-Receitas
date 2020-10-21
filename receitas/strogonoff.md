@@ -1,4 +1,4 @@
-	#Strogonofe de Frango :Chiken
+	#Strogonoff de Frango :Chiken
 
 	Ingredientes 
 
